@@ -192,6 +192,11 @@
 
 /* Personnalisation */
 
+.navbar-brand{
+        text-decoration:none;
+	color:#fff;
+	font-weight:bold;
+}
 .carousel{
 	width:100%;
 	background-image: url("banner.jpg");
