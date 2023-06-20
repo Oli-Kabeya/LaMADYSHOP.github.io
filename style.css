@@ -644,16 +644,15 @@ html{
 /* contact */
 
 
-/* articles.html */
+/* articles.html 
 
 .card{
 	height:600px;
 }
 .card img{
 	height:50%;
-}
+}*/
 .card-body{
-	height:50%;
 	overflow:scroll;
 }
 #titre_second{
